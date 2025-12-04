@@ -8,7 +8,7 @@ Original file is located at
 """
 
 
-streamlit run streamlit_app.py
+
 
 # streamlit_app.py
 import streamlit as st
